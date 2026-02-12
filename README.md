@@ -24,8 +24,8 @@ triangular form, ensuring no division by zero.
 ```
 '''
 Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: KABELAN G K
-RegisterNumber: 24900985
+Developed by: Karthic V
+RegisterNumber: 212225240068
 '''
 ```
 ```
